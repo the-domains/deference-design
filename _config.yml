@@ -1,0 +1,14 @@
+layout_spectrum: 0.2024704
+color:
+  saturation: 0.5537057
+  brandStrength: 0.7889366
+  lightness: 0.9074695
+  brandColors:
+    - '#FFFFFF'
+    - '#FBA575'
+    - '#C74A6D'
+    - '#41151F'
+    - '#914C41'
+  rhythmicContrast: 0.03168633
+typography_spectrum: 0.3721804
+name: Deference Design
