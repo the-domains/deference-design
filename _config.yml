@@ -1,7 +1,7 @@
 name: Deference Design
 favicon: null
 layout_spectrum: 0.2024704
-typography_spectrum: 0.3721804
+typography_spectrum: 0.54285
 title: DEFERENCE DESIGN
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C74A6D'
     - '#41151F'
     - '#914C41'
-  brandStrength: 0.7889366
-  lightness: 0.9074695
-  saturation: 0.5537057
-  rhythmicContrast: 0.03168633
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
