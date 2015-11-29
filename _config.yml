@@ -1,14 +1,29 @@
+name: Deference Design
+favicon: null
 layout_spectrum: 0.2024704
+typography_spectrum: 0.3721804
+title: DEFERENCE DESIGN
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5537057
-  brandStrength: 0.7889366
-  lightness: 0.9074695
   brandColors:
     - '#FFFFFF'
     - '#FBA575'
     - '#C74A6D'
     - '#41151F'
     - '#914C41'
+  brandStrength: 0.7889366
+  lightness: 0.9074695
+  saturation: 0.5537057
   rhythmicContrast: 0.03168633
-typography_spectrum: 0.3721804
-name: Deference Design
+purpose: []
