@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Deference Design]]></title>
-        <description><![CDATA[Deference Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DEFERENCE DESIGN]]></title>
+        <description><![CDATA[DEFERENCE DESIGN]]></description>
+        <link>https://thegrid.ai/deference-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 02:11:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 02:24:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deference-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Update 2]]></title>
+            <description><![CDATA[<article><h1>Update 2</h1><p>Deference Design is committed to bringing the best of design into the world of websites apps and marketing platforms.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cfe2efb-03aa-46d2-8d02-8eeee675ab3c.png"></article>]]></description>
+            <link>https://thegrid.ai/deference-design/update-2/index.html</link>
+            <guid isPermaLink="false">fd6555a0-57c5-42ef-8a93-eb73b0ded362</guid>
+            <pubDate>Sun, 29 Nov 2015 02:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Update 1]]></title>
             <description><![CDATA[<article><h1>Update 1</h1><p>A Quick Update</p></article>]]></description>
-            <link>undefinedupdate-1/index.html</link>
+            <link>https://thegrid.ai/deference-design/update-1/index.html</link>
             <guid isPermaLink="false">f5c19e94-77ba-4b12-9503-8c22f13e3770</guid>
             <pubDate>Sun, 29 Nov 2015 02:11:14 GMT</pubDate>
         </item>
